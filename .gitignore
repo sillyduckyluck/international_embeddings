@@ -1,0 +1,14 @@
+# Ignore the glove.840B.300d.zip file
+glove.840B.300d.zip
+
+# Ignore the glove.6B folder
+glove.6B/
+
+# Ignore the glove_cc folder
+glove_cc/
+
+# Ignore the targets folder
+targets/
+
+# Ignore the transform folder
+transform/

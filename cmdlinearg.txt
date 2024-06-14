@@ -1,0 +1,40 @@
+python3 alacarte.py ~/Documents/GESIS/ALaCarte/dump/ -s ~/Documents/GESIS/ALaCarte/glove_cc/glove.840B.300d.txt -t sample.txt -m ~/Documents/GESIS/ALaCarte/transform/840B.300d.bin -c ~/Documents/GESIS/ALaCarte/corpus.txt
+
+
+PT1)
+
+python3 alacarte.py ~/Documents/GESIS/ALaCarte/dump/Results/divorce-Ukraine-pt1_1989-1993/ -s ~/Documents/GESIS/ALaCarte/glove_cc/glove.840B.300d.txt -t ukraine.txt -m ~/Documents/GESIS/ALaCarte/transform/840B.300d.bin -c ~/Documents/GESIS/books_dataset/Ukraine-russia-divorce/Paul-DAnieri/pt1_1989-1993.txt --create-new
+
+python3 alacarte.py ~/Documents/GESIS/ALaCarte/dump/Results/divorce-Russia-pt1_1989-1993/ -s ~/Documents/GESIS/ALaCarte/glove_cc/glove.840B.300d.txt -t russia.txt -m ~/Documents/GESIS/ALaCarte/transform/840B.300d.bin -c ~/Documents/GESIS/books_dataset/Ukraine-russia-divorce/Paul-DAnieri/pt1_1989-1993.txt --create-new
+
+PT2)
+
+python3 alacarte.py ~/Documents/GESIS/ALaCarte/dump/Results/divorce-Ukraine-pt2_1994-1999/ -s ~/Documents/GESIS/ALaCarte/glove_cc/glove.840B.300d.txt -t ukraine.txt -m ~/Documents/GESIS/ALaCarte/transform/840B.300d.bin -c ~/Documents/GESIS/books_dataset/Ukraine-russia-divorce/Paul-DAnieri/pt2_1994-1999.txt --create-new
+
+python3 alacarte.py ~/Documents/GESIS/ALaCarte/dump/Results/divorce-Russia-pt2_1994-1999/ -s ~/Documents/GESIS/ALaCarte/glove_cc/glove.840B.300d.txt -t russia.txt -m ~/Documents/GESIS/ALaCarte/transform/840B.300d.bin -c ~/Documents/GESIS/books_dataset/Ukraine-russia-divorce/Paul-DAnieri/pt2_1994-1999.txt --create-new
+
+PT3)
+
+python3 alacarte.py ~/Documents/GESIS/ALaCarte/dump/Results/divorce-Ukraine-pt3_1999-2004/ -s ~/Documents/GESIS/ALaCarte/glove_cc/glove.840B.300d.txt -t ukraine.txt -m ~/Documents/GESIS/ALaCarte/transform/840B.300d.bin -c ~/Documents/GESIS/books_dataset/Ukraine-russia-divorce/Paul-DAnieri/pt3_1999-2004.txt --create-new
+
+python3 alacarte.py ~/Documents/GESIS/ALaCarte/dump/Results/divorce-Russia-pt3_1999-2004/ -s ~/Documents/GESIS/ALaCarte/glove_cc/glove.840B.300d.txt -t russia.txt -m ~/Documents/GESIS/ALaCarte/transform/840B.300d.bin -c ~/Documents/GESIS/books_dataset/Ukraine-russia-divorce/Paul-DAnieri/pt3_1999-2004.txt --create-new
+
+PT4)
+
+python3 alacarte.py ~/Documents/GESIS/ALaCarte/dump/Results/divorce-Ukraine-pt4_2004-2010/ -s ~/Documents/GESIS/ALaCarte/glove_cc/glove.840B.300d.txt -t ukraine.txt -m ~/Documents/GESIS/ALaCarte/transform/840B.300d.bin -c ~/Documents/GESIS/books_dataset/Ukraine-russia-divorce/Paul-DAnieri/pt4_2004-2010.txt --create-new
+
+python3 alacarte.py ~/Documents/GESIS/ALaCarte/dump/Results/divorce-Russia-pt4_2004-2010/ -s ~/Documents/GESIS/ALaCarte/glove_cc/glove.840B.300d.txt -t russia.txt -m ~/Documents/GESIS/ALaCarte/transform/840B.300d.bin -c ~/Documents/GESIS/books_dataset/Ukraine-russia-divorce/Paul-DAnieri/pt4_2004-2010.txt --create-new
+
+PT5)
+
+python3 alacarte.py ~/Documents/GESIS/ALaCarte/dump/Results/divorce-Ukraine-pt5_2010-2013/ -s ~/Documents/GESIS/ALaCarte/glove_cc/glove.840B.300d.txt -t ukraine.txt -m ~/Documents/GESIS/ALaCarte/transform/840B.300d.bin -c ~/Documents/GESIS/books_dataset/Ukraine-russia-divorce/Paul-DAnieri/pt5_2010-2013.txt --create-new
+
+python3 alacarte.py ~/Documents/GESIS/ALaCarte/dump/Results/divorce-Russia-pt5_2010-2013/ -s ~/Documents/GESIS/ALaCarte/glove_cc/glove.840B.300d.txt -t russia.txt -m ~/Documents/GESIS/ALaCarte/transform/840B.300d.bin -c ~/Documents/GESIS/books_dataset/Ukraine-russia-divorce/Paul-DAnieri/pt5_2010-2013.txt --create-new
+
+PT6)
+
+python3 alacarte.py ~/Documents/GESIS/ALaCarte/dump/Results/divorce-Ukraine-pt6_2013-2015/ -s ~/Documents/GESIS/ALaCarte/glove_cc/glove.840B.300d.txt -t ukraine.txt -m ~/Documents/GESIS/ALaCarte/transform/840B.300d.bin -c ~/Documents/GESIS/books_dataset/Ukraine-russia-divorce/Paul-DAnieri/pt6_2013-2015.txt --create-new
+
+python3 alacarte.py ~/Documents/GESIS/ALaCarte/dump/Results/divorce-Russia-pt6_2013-2015/ -s ~/Documents/GESIS/ALaCarte/glove_cc/glove.840B.300d.txt -t russia.txt -m ~/Documents/GESIS/ALaCarte/transform/840B.300d.bin -c ~/Documents/GESIS/books_dataset/Ukraine-russia-divorce/Paul-DAnieri/pt6_2013-2015.txt --create-new
+
+

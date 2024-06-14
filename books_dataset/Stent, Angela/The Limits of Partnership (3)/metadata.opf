@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">227acac3-8203-4488-b1d5-fb9297a9155e</dc:identifier>
+        <dc:title>The Limits of Partnership</dc:title>
+        <dc:creator opf:file-as="Stent, Angela" opf:role="aut">Stent, Angela</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.19.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-14T22:00:00+00:00</dc:date>
+        <dc:publisher>Princeton University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781400848454</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-31T09:33:56.746799+00:00"/>
+        <meta name="calibre:title_sort" content="Limits of Partnership, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

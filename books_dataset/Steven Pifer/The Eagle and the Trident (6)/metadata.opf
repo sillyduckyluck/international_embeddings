@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82549389-35bb-4d82-ba8a-46f3d7e53db2</dc:identifier>
+        <dc:title>The Eagle and the Trident</dc:title>
+        <dc:creator opf:file-as="Pifer, Steven" opf:role="aut">Steven Pifer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.19.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;STRONG&gt;An insider's account of the complex relations between the United States and post-Soviet Ukraine&lt;/STRONG&gt;&lt;BR&gt;The Eagle and the Trident provides the first comprehensive account of the development of U.S. diplomatic relations with an independent Ukraine, covering the years 1992 through 2004 following the collapse of the Soviet Union. The United States devoted greater attention to Ukraine than any other post-Soviet state (except Russia) after the breakup of the Soviet Union. Steven Pifer, a career Foreign Service officer, worked on U.S.-Ukraine relations at the State Department and the White House during that period and also served as ambassador to Ukraine. With this volume he has written the definitive narrative of the ups and downs in the relationship between Washington and newly independent Ukraine.&lt;BR&gt;The relationship between the two countries moved from heady days in the mid- 1990s, when they declared a strategic partnership, to troubled times after 2002. During the...</dc:description>
+        <dc:publisher>Brookings Institution Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780815730620</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-31T09:33:56.913503+00:00"/>
+        <meta name="calibre:title_sort" content="Eagle and the Trident, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

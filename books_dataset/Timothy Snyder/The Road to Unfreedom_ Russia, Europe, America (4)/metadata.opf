@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98cd5fe9-c97e-41d6-8a1e-7923f9126f3f</dc:identifier>
+        <dc:title>The Road to Unfreedom: Russia, Europe, America</dc:title>
+        <dc:creator opf:file-as="Snyder, Timothy" opf:role="aut">Timothy Snyder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.19.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-03T00:00:00+00:00</dc:date>
+        <dc:description>With the end of the Cold War, the victory of liberal democracy was thought to be absolute. Observers declared the end of history, confident in a peaceful, globalized future. But we now know this to be premature. Authoritarianism first returned in Russia, as Putin developed a political system dedicated solely to the consolidation and exercise of power. In the last six years, it has creeped from east to west as nationalism inflames Europe, abetted by Russian propaganda and cyberwarfare. While countries like Poland and Hungary have made hard turns towards authoritarianism, the electoral upsets of 2016 revealed the citizens of the US and UK in revolt against their countries' longstanding policies and values.&lt;br&gt;But this threat to the West also presents the opportunity to better understand the pillars of our own political order. In this forceful and unsparing work of contemporary history, Snyder goes beyond the headlines to expose the true nature of the threat to democracy. By...</dc:description>
+        <dc:publisher>Crown/Archetype</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-05-31T09:33:56.795053+00:00"/>
+        <meta name="calibre:title_sort" content="Road to Unfreedom: Russia, Europe, America, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
